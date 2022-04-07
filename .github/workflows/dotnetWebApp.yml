@@ -1,8 +1,10 @@
 name: .NET
 
 on:
-  push:
-    branches: [ master ]
+  # We dont want to trigger every time a push happens
+  # So commenting out.
+  #push:
+  #  branches: [ master ]
   pull_request:
     branches: [ master ]
 
