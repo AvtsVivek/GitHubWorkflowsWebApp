@@ -7,7 +7,6 @@ on:
   push:
     branches:
       - master
-  # The following allows us to manually trigger from github ui.
   workflow_dispatch:
 
 jobs:
