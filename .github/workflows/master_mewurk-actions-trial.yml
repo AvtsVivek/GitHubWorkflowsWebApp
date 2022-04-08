@@ -54,4 +54,5 @@ jobs:
           app-name: 'mewurk-actions-trial'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65428DC7161946DCAE36ABE2CE54F296 }}
+          # publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CCC25B0C71844829AFAC9AE4697488A }}
           package: .

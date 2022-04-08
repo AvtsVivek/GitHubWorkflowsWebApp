@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
 		.github\workflows\dotnetWebApp.yml = .github\workflows\dotnetWebApp.yml
+		.github\workflows\master_mewurk-actions-trial.yml = .github\workflows\master_mewurk-actions-trial.yml
 		README.md = README.md
 	EndProjectSection
 EndProject
